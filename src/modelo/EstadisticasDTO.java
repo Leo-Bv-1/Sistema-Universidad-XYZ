@@ -1,4 +1,4 @@
-package src.controlador;
+package src.modelo;
 /**
  * Clase DTO para estadísticas
  */

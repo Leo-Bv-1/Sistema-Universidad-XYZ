@@ -1,4 +1,4 @@
-package src.controlador;
+package src.modelo;
 
 public class RespuestaOperacion {
     private boolean exito;
